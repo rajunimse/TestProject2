@@ -1,3 +1,3 @@
 require('seneca')()
   .use(require('./math'))
-  .listen(3000)
+  .listen(8080)
